@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-Welcome to my first tutorial, this is the first part of a 3 part tutorial on how to install, setup, and run your own in house Help Desk Ticketing system through osTicket. In this tutorial we will be using a virtual machine on Azure and installing all the necessary files in order to run osTicket properly.
+Welcome to my first tutorial! this is the first part of a 3 part tutorial on how to install, setup, and run your own in house Help Desk Ticketing system through osTicket. In this tutorial we will be using a virtual machine with 2-4 Virtual CPU's on Azure and installing all the necessary files in order to run osTicket properly.
 </p>
 <br />
 
