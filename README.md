@@ -46,7 +46,7 @@ The first step is to connect to the Virtaul Machine that you created through Azu
 </p>
 
 <p>
-Make sure to use this link that will take you to the installation files needed to properly install osTicket. You should have this window open in your VM since all the downloads will be happening inside there.
+Make sure to use this link  below that will take you to the installation files needed to properly install osTicket. You should have this window open in your VM since all the downloads will be happening inside there.
 </p>
 <ul>
   <li><a href="https://drive.google.com/drive/folders/1q_UQXWcAzwkO86oBobDOGaVKXUsxzI2w?usp=share_link">Installation Files needed to install osTicket</a>
