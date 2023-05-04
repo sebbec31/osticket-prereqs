@@ -42,7 +42,7 @@ The first step is to connect to the Virtaul Machine that you created through Azu
 <br />
 
 <p>
-<img src="https://user-images.githubusercontent.com/125160491/236002433-299d1ebc-8814-4f89-a9b2-6042719320c4.png" height="80%" width="80%" alt="Installation Files"/>
+<img src="https://user-images.githubusercontent.com/125160491/236275103-ad9c34bb-6ff3-442f-b950-1ce8b08a6565.png" height="80%" width="80%" alt="Installation Files"/>
 </p>
 
 <p>
@@ -51,6 +51,46 @@ Make sure to use this link  below that will take you to the installation files n
 <ul>
   <li><a href="https://drive.google.com/drive/folders/1q_UQXWcAzwkO86oBobDOGaVKXUsxzI2w?usp=share_link">Installation Files needed to install osTicket</a>
 </ul>
+<br />
+
+<p>
+<img src="https://user-images.githubusercontent.com/125160491/236276419-90a412c5-56d9-4348-a810-e68ccc582a0e.png" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+New text here
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
 <br />
 
 <p>
