@@ -125,6 +125,54 @@ In the Windows search bar search for "IIS" and run it as administrator.
 <br />
 
 <p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/939b0e86-80ef-450b-8aea-95b1e68c09c7" height="80%" width="80%" alt="Register"/>
+</p>
+<p>
+Once the IIS Manager is open, select PHP Manager > Select Register new PHP version > Browse Files > PHP > Open php-cgi
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/ed84c1c5-c133-4799-8d2f-81c056cd4e1b" height="80%" width="80%" alt="Restart"/>
+</p>
+<p>
+Restart the IIS Manager
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/c7f9079b-747c-409d-9f6c-b6c162d2bb1e" height="80%" width="80%" alt="Folder Allocation"/>
+</p>
+<p>
+Download the file osTicket-v1.15.8 from the google doc. Once it is finished downloading, open two file explorer windows and navigate to the osTicket-v1.15.8.zip folder and "inetpup". In the inetpup folder, go to "wwwroot" and transfer the "upload" folder in from the osTicket zip. After it finishes, rename the "upload" folder to "osTicket".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
