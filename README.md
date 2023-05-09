@@ -80,7 +80,47 @@ Once you have installed IIS go ahead and type "127.0.0.1" in a new tab to make s
 <img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/98ee5d62-e0f8-418a-8cb6-6d8d7b40e333" height="80%" width="80%" alt="New Folder"/>
 </p>
 <p>
-Next, create a new folder named "PHP" in the C drive. To do this go to File Explorer > This PC > (C:) > New Folder > Name folder "PHP".
+Next, create a new folder named "PHP" in your C drive. To do this go to File Explorer > This PC > (C:) > New Folder > Name folder "PHP".
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/19626d06-8e56-4ff2-b44d-5c586b69c9f1" height="80%" width="80%" alt="Extact Files"/>
+</p>
+<p>
+Once the file is created, download and install php-7.3.8-nts-Win32-VC15-x86.zip and then extract all the contents into C:\PHP.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/8861eba6-27ce-4975-8cac-f079980b12fb" height="80%" width="80%" alt="Installation File"/>
+</p>
+<p>
+Download and install VC_redist.x86.exe.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/2d0e0617-1b9b-401c-b2ed-0730dd35f7a1" height="80%" width="80%" alt="Installation FIle"/>
+</p>
+<p>
+Download and install Download and install mysql-5.5.62-win32.msi. To install this properly Select Next > Accept Agreement > Next > Typical Setup > Install > Finish > Next > Standard Configuration > Next > Next.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/67cd5db1-3b75-47d0-a384-57b49a633cd7" height="80%" width="80%" alt="Password Setup"/>
+</p>
+<p>
+Once you arrive to the password setup, make sure to create a password that you will remember. After creating a password Select Next > Execute.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/e3158129-bfc9-43c9-8e4d-e9363bbc0dc3" height="80%" width="80%" alt="Administrator"/>
+</p>
+<p>
+In the Windows search bar search for "IIS" and run it as administrator.
 </p>
 <br />
 
