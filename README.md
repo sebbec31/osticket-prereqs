@@ -149,10 +149,10 @@ Download the file osTicket-v1.15.8 from the google doc. Once it is finished down
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/02765eb7-7359-4227-9803-77ae27e86808" height="80%" width="80%" alt="Restart"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Restart the IIS Manager
 </p>
 <br />
 
