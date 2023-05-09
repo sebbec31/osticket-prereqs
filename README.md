@@ -49,39 +49,38 @@ The first step is to connect to the Virtaul Machine that you created through Azu
 Make sure to use this link  below that will take you to the installation files needed to properly install osTicket. You should have this window open in your VM since all the downloads will be happening inside there.
 </p>
 <ul>
-  <li><a href="https://drive.google.com/drive/folders/1q_UQXWcAzwkO86oBobDOGaVKXUsxzI2w?usp=share_link">Installation Files needed to install osTicket</a>
+  <li><a href="https://docs.google.com/document/d/16Qxd2kooP5vsWpHshRSUSVaLnr5Sor9YDxFiZt21CFI/edit?usp=sharing">Installation Files needed to install osTicket</a>
 </ul>
 <br />
 
 <p>
-<img src="https://user-images.githubusercontent.com/125160491/236276419-90a412c5-56d9-4348-a810-e68ccc582a0e.png" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/125160491/236276419-90a412c5-56d9-4348-a810-e68ccc582a0e.png" alt="Control Panel"/>
 </p>
 <p>
-New text here
+In the Control Panel go to the Programs section and select "Turn Windows features on or off".</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/7a944abe-e142-4ef3-90c2-c8fa920b5bd7" height="80%" width="80%" alt="Windows Features"/>
+</p>
+<p>
+Next, enable and install IIS in Windows with CGI. To do this enable Internet Information Services > Expand World Wide Web Services > Expand Development Features > Check CGI > Select OK
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/3c9961fd-30b3-4498-9781-906981d835c7" height="80%" width="80%" alt="Installation Software"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you have installed IIS go ahead and type "127.0.0.1" in a new tab to make sure that it was installed properly. If it was then it should look like it does in the screen shot. Once that is done, download and install PHPManagerForIIS_V1.5.0.msi and rewrite_amd64_en-US.msi from the google doc. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/98ee5d62-e0f8-418a-8cb6-6d8d7b40e333" height="80%" width="80%" alt="New Folder"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, create a new folder named "PHP" in the C drive. To do this go to File Explorer > This PC > (C:) > New Folder > Name folder "PHP".
 </p>
 <br />
 
