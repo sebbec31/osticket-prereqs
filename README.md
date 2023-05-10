@@ -246,17 +246,34 @@ Once HeidiSQL has been installed, Select New > Enter the password that was creat
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/65ec56c7-1698-4531-acc2-0949148a515f" height="80%" width="80%" alt="Database"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Inside of HeidiSQL, right click "Unnamed" > Create new > Database > Name it "osTicket"> Select OK.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/72599e7e-0b06-42c1-981d-144b6bbf8ba0" height="80%" width="80%" alt="Apply"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now go back to the osTicket Installer and enter the username and password. MySQL Database should be "osTicket. The username and password should be "root" and "Password1". Select Install Now
 </p>
 <br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/6b8a0879-1af1-44e6-bd25-9c728e3f8082" height="80%" width="80%" alt="Clean Up"/>
+</p>
+<p>
+To finish off the tutorial we will be cleaning some stuff up that is not needed anymore. Go back to the file explorer > C:\inetpub > wwwroot > osTicket > delete the "setup" folder.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/452b9d82-5788-40fa-a11b-4b8af0191b58" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Stay in the osTicket folder > include > fine "ost-config.php" > right click for properties > Security > Advanced > click Everyone > Edit > set permissions to only "Read" and "Read and execute" only > OK > Apply > OK
+</p>
+<br />
+
