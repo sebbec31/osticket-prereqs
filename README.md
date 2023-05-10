@@ -136,7 +136,7 @@ Once the IIS Manager is open, select PHP Manager > Select Register new PHP versi
 <img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/ed84c1c5-c133-4799-8d2f-81c056cd4e1b" height="80%" width="80%" alt="Restart"/>
 </p>
 <p>
-Restart the IIS Manager
+Restart IIS Manager
 </p>
 <br />
 
@@ -152,23 +152,96 @@ Download the file osTicket-v1.15.8 from the google doc. Once it is finished down
 <img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/02765eb7-7359-4227-9803-77ae27e86808" height="80%" width="80%" alt="Restart"/>
 </p>
 <p>
-Restart the IIS Manager
+Restart IIS Manager
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/240891fc-e218-4f72-a1e6-39b4d50e1e81" height="80%" width="80%" alt="osTicket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Expand osTicket on the left menus > Sites > Default Web Sites > Click osTicket. Click on "Browse *.80. This will take you to the osTicket installer.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/f666448e-75b2-44a8-ae98-9a6ee5949f61" height="80%" width="80%" alt="PHP Manager"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Head back to IIS Manager and into osTicket. Select "PHP Manager" then select "Enable or disable extension" under PHP Extensions.
+  
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/1d51e9ec-4776-48f7-b4f7-91017790d8e5" height="80%" width="80%" alt="Enable"/>
+</p>
+<p>
+Next, go ahead and enable "php_imap.dll", "php_intl.dll", and "php_opcache.dll" by selecting "Enable" 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/3b59f90f-d29f-4260-bfa3-e999b8700f23" height="80%" width="80%" alt="Check"/>
+</p>
+<p>
+Now head back to osTicket Installer on the web browser, refresh and see if the changes were made to match the screenshot above.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/d49c56b6-72a8-4c46-ae73-ca6844e0a794" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once the correct changes are made, open file explorer and navigate back to osTicket inside of inetpub. Select include and locate "ost-sampleconfig.php" and rename it to "ost-config.php".
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/3aba583c-80ef-4659-ad07-97f4f1d3527d" height="80%" width="80%" alt="Disable"/>
+</p>
+<p>
+Once the name has been changed, right click and select Properties > Security > Advanced > Disable Inheritance > Remove all.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/89049d38-e52b-48db-8a00-a285bfd194bd" height="80%" width="80%" alt="Add"/>
+</p>
+<p>
+Select Add > Select a principle > type "everyone" in the object box > Check name > Press Ok.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/5cf7eb82-9b84-437c-bd5a-16d2b8fba5b1" height="80%" width="80%" alt="Check
+</p>
+<p>
+Check "Full Control" > Select Apply > Select OK
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/098bace1-cd1c-4085-a6eb-b36fc5100332" height="80%" width="80%" alt="Information
+</p>
+<p>
+Next, go back to the osTicket Installer and select "Continue". In the first red box above, copy exactly as it. In the red box below. you can create your own Admin user credentials. I wrote down a random email and created a password. Make sure to write down the email, username, and password in a notepad to help you login later. (Note: Writing important information down in a notepad is only specifically used for training or tutorials and is not best practice in a professional environment.)
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/3fc84e26-4239-4f0c-a583-02085a79d346" height="80%" width="80%" alt="heidi"/>
+</p>
+<p>
+  Download HeidiSQL from the google doc which contains a word doc with a link to the actual download. Just select continue all the way through and install.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/a1c9581e-6653-40dc-a822-4698d16b4266" height="80%" width="80%" alt="New"/>
+</p>
+<p>
+Once HeidiSQL has been installed, Select New > Enter the password that was created earlier in the tutorial "Password1" > Select Open.
 </p>
 <br />
 
