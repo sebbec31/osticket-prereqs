@@ -273,7 +273,7 @@ To finish off the tutorial we will be cleaning some stuff up that is not needed 
 <img src="https://github.com/sebbec31/osticket-prereqs/assets/125160491/452b9d82-5788-40fa-a11b-4b8af0191b58" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Stay in the osTicket folder > include > fine "ost-config.php" > right click for properties > Security > Advanced > click Everyone > Edit > set permissions to only "Read" and "Read and execute" only > OK > Apply > OK
+Stay in the osTicket folder > include > fine "ost-config.php" > right click for properties > Security > Advanced > Select Everyone > Edit > set permissions to only "Read" and "Read and execute" only > OK > Apply > OK
 </p>
 <br />
 
